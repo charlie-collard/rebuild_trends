@@ -24,8 +24,12 @@ Installation
 Example (sample output data available in repo)
 ----------------------------------------
 
- ![](https://i.imgur.com/XDAKFjx.png)
- *Search trends for 'Bitcoin' over 7 years from trends.google.com (1 month data granularity)*
- 
- ![](https://i.imgur.com/XgdGbnA.png)
- *Search trends for 'Bitcoin' over 7 years rebuilt with the script (1 day data granularity)*
+<figure>
+ <img width="700" src="https://i.imgur.com/XDAKFjx.png" />
+ <figcaption>Search trends for 'Bitcoin' over 7 years from trends.google.com (1 month data granularity)</figcaption>
+</figure>
+
+<figure>
+ <img width="700" src="https://i.imgur.com/XgdGbnA.png" />
+ <figcaption>Search trends for 'Bitcoin' over 7 years rebuilt with the script (1 day data granularity)</figcaption>
+</figure>
