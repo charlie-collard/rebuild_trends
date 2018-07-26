@@ -26,10 +26,12 @@ Example (sample output data available in repo)
 
 <figure>
  <img width="700" src="https://i.imgur.com/XDAKFjx.png" />
- <figcaption>Search trends for 'Bitcoin' over 7 years from trends.google.com (1 month data granularity)</figcaption>
+ <figcaption><b>Search trends for 'Bitcoin' over 7 years from trends.google.com (1 month data granularity)</b></figcaption>
 </figure>
+
+<p></p>
 
 <figure>
  <img width="700" src="https://i.imgur.com/XgdGbnA.png" />
- <figcaption>Search trends for 'Bitcoin' over 7 years rebuilt with the script (1 day data granularity)</figcaption>
+ <figcaption><b>Search trends for 'Bitcoin' over 7 years rebuilt with the script (1 day data granularity)</b></figcaption>
 </figure>
